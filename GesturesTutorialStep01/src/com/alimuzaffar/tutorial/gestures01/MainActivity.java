@@ -11,6 +11,7 @@ import android.widget.EditText;
 public class MainActivity extends Activity {
 
 	private GestureDetector mGestureDetector;
+
 	private View.OnTouchListener mViewTouchListener;
 
 	@Override
